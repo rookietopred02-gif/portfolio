@@ -3,7 +3,6 @@
 ![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-blue)
 ![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20TypeScript-informational)
 ![Status](https://img.shields.io/badge/Status-Open%20for%20Freelance-brightgreen)
-![Location](https://img.shields.io/badge/Location-Australia-purple)
 ![Timezone](https://img.shields.io/badge/Timezone-Australia%2FSydney-purple)
 
 * * *
